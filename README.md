@@ -1,5 +1,5 @@
-Top 10 Finalist – Bridging Divides Migration Data Challenge 🎊
-Location: Remote (Canada-wide) | Year: 2025
+** Top 10 Finalist – Bridging Divides Migration Data Challenge 🎊 **
+* Data Anlysis challenege | Location: Remote (Canada-wide) | Year: 2025 *
 team : Triple Analytics
 
 Overview:
