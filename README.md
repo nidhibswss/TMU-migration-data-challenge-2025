@@ -1,7 +1,7 @@
-## Top 10 Finalist – Team Triple Analytics (Canada-wide)
-## Bridging Divides Migration Data Challenge
+## Top 10 Finalist – Bridging Divides Migration Data Challenge 🎉
+### Team Triple Analytics 
 Duration: April–May 2025
-Location: Remote, Canada
+Location: Remote, Canada-wide
 
 🧩 Overview
 
