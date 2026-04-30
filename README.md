@@ -1,29 +1,33 @@
 ## Top 10 Finalist – Bridging Divides Migration Data Challenge 🎉
-### Team Triple Analytics 
+### topic : Immigrant Access to Healthcare & Education in Canada 
+#### Team Triple Analytics 
 Duration: April–May 2025
 Location: Remote, Canada-wide
 
-🧩 Overview
+Q : How does access to healthcare and education differ between recent and long-term immigrants across Canada?
 
 Analyzed immigrant access to healthcare and education across Canadian provinces using Statistics Canada datasets.
 Compared recent (2016–2021) vs long-term (pre-2016) immigrant cohorts to uncover spatial and service accessibility gaps.
 Used Python (Pandas, Seaborn, GeoPandas) for data cleaning, regression analysis, and mapping to visualize settlement disparities.
 
-📊 Key Insights
+What We Did:
+Merged multiple datasets to create a unified analysis dataset
+Engineered features like walkable and transit-based accessibility
+Used regression and correlation analysis to identify relationships
+Segmented data by immigration period (pre-2016 vs 2016–2021)
 
-🩺 Long-term immigrants are concentrated in areas with higher healthcare and education access.
-🚉 Recent immigrants face reduced transit and service connectivity, highlighting spatial inequality.
-🌎 Accessibility disparities vary by province — Ontario and Alberta showed the widest gaps.
+Key Insights
 
-🧠 Tools & Methods
+- Regions with higher long-term immigrant populations show better access to healthcare and education
+- Areas with more recent immigrants have lower walkable and transit access to essential services
+- Walkable healthcare access declines significantly in regions with higher newcomer populations
+- Some provinces show declining accessibility trends despite high immigration intake, suggesting infrastructure gaps
+
+Tools & Methods
 
 Data Analysis: Python, Pandas, NumPy
 Visualization: Seaborn, Matplotlib, GeoPandas
 Data Sources: Statistics Canada – Census, Healthcare & Education Facility Databases
 
-🗺️ Outcome
-
-- Produced regression and spatial visualizations showing regional accessibility trends.
-- Presented findings to a national judging panel and recognized among Canada’s Top 10 teams.
 
 Read the article -> https://www.torontomu.ca/bridging-divides/news-and-events/news/2025/06/students-break-new-ground-in-migration-data-challenge/
